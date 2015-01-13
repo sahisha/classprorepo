@@ -1,0 +1,12 @@
+
+html, body
+{
+background:url("../img/as.png") no-repeat fixed;
+    -webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+}
+.pad center
+{
+    padding: 80px;
+}
